@@ -29,6 +29,8 @@ public class Exercise14 {
 		System.out.println("Nombre: " + nom);
 		System.out.println("Dirección: " + dir);
 		System.out.println("Teléfono: " + tlf);
+		
+		sc.close();
 
 	}
 
